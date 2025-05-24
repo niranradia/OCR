@@ -1,0 +1,6 @@
+numpy
+opencv-python
+matplotlib
+tensorflow_datasets
+tensorflow[and-cuda]
+scipy
